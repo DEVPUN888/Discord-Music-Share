@@ -37,4 +37,4 @@ A lightweight system to share your current music from YouTube and Spotify to you
 - **Language:** Python 3.x
 - **Key Libraries:** `requests`, `spotipy`, `pygetwindow`, `python-dotenv`
 
-## By DvPUN
+## By DevPUN
